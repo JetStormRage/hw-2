@@ -37,7 +37,6 @@ h2 {
 }
 
 nav {
-  background-color: transparent text-emphasis-color green;
   text-align: center;
   margin-top: 210px;
   display: block;
@@ -49,7 +48,6 @@ nav {
 
 nav a {
   color: black;
-  font-weight: 900px;
   background-color: red;
   margin-left: 50px;
   font-size: 20px;
